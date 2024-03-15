@@ -1,16 +1,10 @@
-# flutter_whatsappclone
+# WhatsApp Clone
 
-A new Flutter project.
+Projeto de um Clone da Tela inicial do WhatsApp.
 
-## Getting Started
+## Imagens
+<img src="https://github.com/JoaoVtrxx/WhatsApp-Design-Clone/assets/106991499/f6d0adb0-ddef-4276-b587-a3cf780cc675" width="200" height="400"/>
 
-This project is a starting point for a Flutter application.
+## Download
+O app pode ser instalado através do apk publicado neste repositório.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
